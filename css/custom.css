@@ -1,0 +1,12 @@
+.reveal blockquote {
+	font-style: normal;
+	text-align: left;
+	font-size: 80%;
+	box-shadow: none;
+	border-left: 0.2em solid rgba(64, 64, 64, .5);
+	padding-left: 1em;
+}
+
+.reveal blockquote p {
+	margin: 10px 0;
+}

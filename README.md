@@ -1,6 +1,6 @@
 # Testing DB apps slides
 
-Site: https://ivos.github.io/testing-db-apps-slides
+Site: https://ivos.github.io/testing-slides
 
 ## License
 
@@ -15,4 +15,4 @@ This work is licensed under a
 </a>
 </p>
 
-Copyright (C) 2019 Ivo Maixner, https://lastware.cz
+Copyright (C) 2019 Ivo Maixner, https://www.lastware.cz

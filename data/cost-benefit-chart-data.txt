@@ -1,0 +1,9 @@
+http://app.rawgraphs.io/
+#71c4e8
+
+Type	Create	Execute	Benefit
+Manual	4	12	100
+UI	2	7	40
+UI+visual	3	8	50
+Unit	2	0	10
+System	4	4	70
